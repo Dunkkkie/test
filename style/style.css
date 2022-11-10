@@ -27,7 +27,7 @@ ul {
 .logo {
     text-transform: uppercase;
     font-size: 40px;
-    color: white;
+    color: red;
 }
 .header__nav-list {
     display: flex;
